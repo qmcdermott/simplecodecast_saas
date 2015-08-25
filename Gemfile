@@ -27,7 +27,6 @@ gem 'uglifier', '1.3.0'
 gem 'coffee-rails', '4.0.0'
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer',  platforms: :ruby
-
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
@@ -48,6 +47,7 @@ gem 'stripe', '1.16.1'
 
 #Use figaro to hide secret keys
 gem 'figaro', '1.0.0'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
