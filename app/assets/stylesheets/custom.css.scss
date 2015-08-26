@@ -4,6 +4,12 @@
 @import "font-awesome-sprockets";
 @import "font-awesome";
 
+.alert-notice {
+    color: #8a6d3b;
+    background-color: #fcf8e3;
+    border-color: #faebcc;
+}
+
 /*body {
   // Gradiant from http://uigradients.com/
   background: -webkit-linear-gradient(90deg, #7b4397 10%, #dc2430 90%); // Chrome 10+, Saf5.1+
